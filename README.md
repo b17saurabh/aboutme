@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saurabhbatham17@gmail.com**
 
-- 📄 Know about my experiences <a href="https://bit.ly/3z0daDN">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1z4ZTHbOTG9Up4psQPIMjr6SHr8WxR5gn/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **I had started my own eCommerce company(XD Kart) right after finishing school with my own website and listings live on Amazon, Snapdeal, Shopclues etc**
 
