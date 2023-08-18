@@ -1,15 +1,17 @@
 <h2 align left>Hi folks,</h2>
-<h3 align="center">I'm Saurabh Batham, a Full Stack Developer in MERN(MongoDB-Express.js-React.js-Node.js) Stack, a Python Developer. I'm a Computer Science Engineer. I did my Bachelor's of Technology in Computer Science & Engineering from BBD Engineering College, Lucknow. I love to learn about how things work and try new tools and technologies. I love to share time with developer communities and events.</h3>
+<h3 align="center">Experienced software engineer with a year in the startup environment, driving impactful projects using
+cloud services, databases, and the .NET stack. Proven ability to manage multiple responsibilities in a fastpaced setting while delivering clean, scalable solutions. Committed to mastering back-end development
+and embracing diverse technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b17saurabh&label=Profile%20views&color=0e75b6&style=flat" alt="b17saurabh" /> </p>
 
 - 🌱 I’m currently learning **Solidity, Blockchain, Web3.0**
 
-- 💬 Ask me about **nodeJS, Python, mySQL, AWS**
+- 💬 Ask me about **.Net core, NOSQL, NQL, Cloud**
 
 - 📫 How to reach me **saurabhbatham17@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1z4ZTHbOTG9Up4psQPIMjr6SHr8WxR5gn/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1pIkf-YpNsD9AyAwvQ9_j1qM5M7GBBCLu/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **I had started my own eCommerce company(XD Kart) right after finishing school with my own website and listings live on Amazon, Snapdeal, Shopclues etc**
 
